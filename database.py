@@ -35,5 +35,5 @@ list_of_texts = [
 ]
 
 initial_text = "How fast are your fingers?\nTest your speed and accuracy typing the text " \
-               "that will be showed next to figure out. The partial typing speed and accuracy will be calculated " \
-               "during the time you're typing.At the end, you'll get the final results.\nGood luck!"
+               "that will be showed next and figure out. The partial typing speed and accuracy will be calculated " \
+               "during the time you're typing. At the end, you'll get the final results.\nGood luck!"
